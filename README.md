@@ -1,2 +1,8 @@
-# multi-agent-simulation
-Multi-agent simulation of a fleet of robots harvesting tomatoes in a greenhouse, using NetLogo.
+#### README being written, maybe, someday ..
+
+Please, refer to the report (it's in french, sorry) for more info about the simulation and the specifications.
+
+<br /><br />
+
+Demonstration :
+![interface](images/interface.PNG?raw=true)
