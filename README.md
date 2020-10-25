@@ -5,4 +5,5 @@ Please, refer to the report (it's in french, sorry) for more info about the simu
 <br /><br />
 
 Demonstration :
+<br />
 ![interface](images/interface.PNG?raw=true)
